@@ -1,0 +1,1 @@
+FROM pihole/pihole:2025.11.0
